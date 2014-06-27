@@ -38,3 +38,5 @@ cd ~/git/amperka
 git clone git://github.com/amperka/ino.git
 sudo easy_install ino
 sudo ln -s ~/arduino/arduino-1.0.5 /usr/share/arduino
+echo "Installing picocom"
+sudo apt-get install picocom
